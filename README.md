@@ -1,5 +1,5 @@
 # Dashboards
-Aqui está um dos primeiros Dashboards de PowerBI que criei durante os meus estudos.
+Aqui está o primeiro Dashboard de PowerBI que criei durante os meus estudos.
 
 Dashboard Link: https://app.powerbi.com/groups/me/reports/aba609ab-ac9c-465d-be88-f17398eb9008/ReportSection?redirectedFromSignup=1&experience=power-bi
 
